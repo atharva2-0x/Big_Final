@@ -1,0 +1,1101 @@
+Campaign_ID,Previous_Sales,During_Campaign_Sales,Foot_Traffic_Before_Campaign,Foot_Traffic_During_Campaign,Customer_Age_Group,Customer_Gender,Promotion_Type,Campaign_Duration_Days,Day_of_Week,Campaign_Success
+1,202,891,313,403,18-25,Female,Buy One Get One,5,Monday,1
+2,535,918,216,575,55+,Female,Loyalty Program,6,Friday,1
+3,960,502,485,696,26-35,Female,Discount,7,Wednesday,0
+4,370,838,443,451,26-35,Female,Discount,9,Thursday,1
+5,206,255,171,498,46-55,Female,Buy One Get One,7,Sunday,1
+6,171,925,494,198,18-25,Male,Buy One Get One,3,Sunday,1
+7,800,725,163,223,18-25,Female,Discount,6,Friday,0
+8,120,673,304,410,36-45,Female,Loyalty Program,7,Sunday,1
+9,714,227,308,505,18-25,Female,Buy One Get One,6,Wednesday,0
+10,221,277,171,409,46-55,Male,Buy One Get One,5,Friday,1
+11,566,415,376,444,36-45,Male,Happy Hour,3,Tuesday,0
+12,314,585,373,462,36-45,Female,Loyalty Program,7,Saturday,1
+13,430,564,419,331,26-35,Male,Loyalty Program,8,Wednesday,1
+14,558,865,437,513,26-35,Male,Discount,5,Saturday,1
+15,187,725,465,337,18-25,Female,Loyalty Program,9,Tuesday,1
+16,472,898,194,692,36-45,Male,Discount,8,Tuesday,1
+17,199,511,265,697,26-35,Male,Happy Hour,8,Saturday,1
+18,971,1082,131,557,46-55,Male,Loyalty Program,2,Wednesday,0
+19,763,206,110,563,26-35,Female,Buy One Get One,2,Saturday,0
+20,230,202,400,491,26-35,Female,Happy Hour,3,Saturday,0
+21,761,822,316,369,36-45,Female,Discount,7,Monday,0
+22,408,949,388,312,36-45,Male,Happy Hour,7,Wednesday,1
+23,869,562,201,369,55+,Female,Discount,7,Monday,0
+24,443,950,491,419,46-55,Male,Happy Hour,6,Friday,1
+25,591,707,366,549,36-45,Male,Discount,5,Sunday,0
+26,513,473,313,331,18-25,Male,Loyalty Program,7,Saturday,0
+27,905,705,278,354,46-55,Female,Buy One Get One,5,Friday,0
+28,485,1005,187,377,46-55,Female,Discount,3,Wednesday,1
+29,291,938,140,399,36-45,Female,Happy Hour,8,Saturday,1
+30,376,1082,175,590,46-55,Female,Discount,7,Sunday,1
+31,260,214,476,682,36-45,Male,Discount,3,Friday,0
+32,559,391,145,345,26-35,Female,Discount,7,Thursday,0
+33,413,830,259,668,55+,Male,Happy Hour,2,Tuesday,1
+34,121,684,179,219,26-35,Female,Buy One Get One,4,Saturday,1
+35,352,227,409,548,36-45,Female,Loyalty Program,3,Sunday,0
+36,847,913,185,352,36-45,Female,Buy One Get One,7,Tuesday,0
+37,956,238,191,297,26-35,Male,Discount,9,Monday,0
+38,660,472,247,621,18-25,Male,Happy Hour,4,Friday,0
+39,574,430,260,348,18-25,Male,Buy One Get One,3,Monday,0
+40,158,285,301,575,18-25,Male,Discount,9,Sunday,1
+41,610,673,341,641,36-45,Male,Loyalty Program,9,Saturday,0
+42,781,325,452,291,46-55,Female,Loyalty Program,6,Tuesday,0
+43,575,1011,101,462,36-45,Male,Loyalty Program,9,Tuesday,1
+44,799,736,324,314,46-55,Male,Discount,7,Friday,0
+45,882,344,388,463,26-35,Male,Happy Hour,6,Saturday,0
+46,289,724,332,170,55+,Male,Buy One Get One,2,Thursday,1
+47,786,411,176,231,46-55,Female,Loyalty Program,7,Thursday,0
+48,662,224,215,280,18-25,Male,Discount,8,Friday,0
+49,975,779,253,454,36-45,Female,Discount,9,Saturday,0
+50,666,593,202,520,26-35,Female,Buy One Get One,2,Friday,0
+51,343,266,293,533,18-25,Female,Loyalty Program,4,Saturday,0
+52,931,432,265,594,26-35,Male,Discount,3,Sunday,0
+53,604,308,458,574,55+,Female,Buy One Get One,9,Sunday,0
+54,230,345,189,310,36-45,Male,Happy Hour,5,Monday,1
+55,584,310,273,327,36-45,Male,Happy Hour,2,Friday,0
+56,918,427,221,639,55+,Male,Happy Hour,5,Saturday,0
+57,746,310,242,476,36-45,Male,Loyalty Program,9,Thursday,0
+58,120,669,205,438,46-55,Male,Buy One Get One,5,Saturday,1
+59,940,233,474,503,26-35,Female,Buy One Get One,9,Sunday,0
+60,266,822,404,177,18-25,Female,Discount,3,Saturday,1
+61,373,975,459,192,55+,Male,Discount,4,Friday,1
+62,487,568,416,572,46-55,Female,Discount,3,Monday,0
+63,700,947,222,326,18-25,Male,Buy One Get One,7,Monday,1
+64,415,794,489,678,18-25,Female,Discount,2,Monday,1
+65,113,753,108,643,55+,Female,Buy One Get One,5,Monday,1
+66,341,624,361,347,46-55,Female,Buy One Get One,3,Sunday,1
+67,876,812,172,666,18-25,Female,Happy Hour,9,Wednesday,0
+68,445,717,458,663,18-25,Female,Discount,3,Friday,1
+69,664,891,322,171,46-55,Male,Happy Hour,3,Tuesday,1
+70,997,481,140,261,36-45,Male,Loyalty Program,2,Friday,0
+71,439,519,469,206,18-25,Female,Loyalty Program,4,Wednesday,0
+72,191,937,303,215,26-35,Male,Loyalty Program,8,Monday,1
+73,466,642,363,247,46-55,Female,Buy One Get One,3,Wednesday,1
+74,554,514,427,293,18-25,Male,Buy One Get One,2,Thursday,0
+75,527,1076,277,584,55+,Female,Buy One Get One,5,Thursday,1
+76,608,940,447,235,26-35,Female,Discount,9,Sunday,1
+77,875,576,417,493,18-25,Female,Happy Hour,7,Friday,0
+78,134,488,183,443,26-35,Male,Buy One Get One,8,Friday,1
+79,305,636,417,392,26-35,Male,Happy Hour,6,Tuesday,1
+80,180,861,210,181,36-45,Female,Happy Hour,8,Sunday,1
+81,661,476,350,540,26-35,Female,Happy Hour,9,Tuesday,0
+82,971,909,482,426,36-45,Male,Discount,8,Thursday,0
+83,487,781,106,681,46-55,Male,Discount,9,Monday,1
+84,101,702,183,303,36-45,Male,Loyalty Program,2,Wednesday,1
+85,489,823,307,532,55+,Male,Loyalty Program,6,Tuesday,1
+86,665,715,487,217,18-25,Male,Happy Hour,3,Saturday,0
+87,205,549,489,363,46-55,Female,Loyalty Program,3,Tuesday,1
+88,871,1042,413,525,46-55,Male,Happy Hour,8,Monday,0
+89,921,645,121,362,55+,Female,Discount,2,Monday,0
+90,576,1029,482,228,36-45,Female,Discount,6,Friday,1
+91,802,549,102,530,18-25,Male,Discount,3,Wednesday,0
+92,501,806,226,207,36-45,Male,Buy One Get One,5,Monday,1
+93,829,863,396,175,26-35,Female,Happy Hour,4,Sunday,0
+94,655,1022,287,596,36-45,Male,Discount,4,Tuesday,1
+95,261,336,461,215,46-55,Female,Happy Hour,3,Tuesday,1
+96,301,958,113,403,18-25,Male,Loyalty Program,6,Thursday,1
+97,369,1098,111,193,36-45,Male,Loyalty Program,7,Monday,1
+98,962,442,186,246,18-25,Male,Discount,3,Saturday,0
+99,915,742,111,376,18-25,Female,Happy Hour,7,Friday,0
+100,370,239,496,585,26-35,Male,Discount,7,Wednesday,0
+101,555,428,124,528,26-35,Female,Loyalty Program,9,Saturday,0
+102,561,747,400,327,46-55,Male,Discount,9,Friday,1
+103,826,422,342,576,55+,Female,Happy Hour,6,Tuesday,0
+104,351,205,221,456,18-25,Male,Loyalty Program,7,Saturday,0
+105,801,521,246,653,55+,Female,Buy One Get One,5,Friday,0
+106,395,667,154,417,46-55,Female,Loyalty Program,6,Tuesday,1
+107,824,931,337,157,18-25,Female,Buy One Get One,3,Tuesday,0
+108,819,274,455,657,18-25,Female,Discount,8,Tuesday,0
+109,848,203,272,625,55+,Female,Discount,5,Tuesday,0
+110,437,1046,491,446,36-45,Female,Happy Hour,2,Sunday,1
+111,978,845,320,313,26-35,Male,Buy One Get One,4,Tuesday,0
+112,152,317,218,634,36-45,Female,Discount,3,Thursday,1
+113,891,1080,408,221,55+,Female,Buy One Get One,3,Saturday,1
+114,316,805,282,387,26-35,Female,Discount,3,Friday,1
+115,863,703,387,253,36-45,Male,Loyalty Program,5,Thursday,0
+116,287,773,406,359,26-35,Male,Discount,2,Sunday,1
+117,479,640,399,617,18-25,Male,Happy Hour,8,Thursday,1
+118,592,393,181,603,36-45,Female,Loyalty Program,6,Monday,0
+119,140,1046,310,417,26-35,Male,Happy Hour,9,Monday,1
+120,256,914,249,535,26-35,Male,Loyalty Program,2,Monday,1
+121,114,591,136,536,26-35,Female,Buy One Get One,5,Wednesday,1
+122,912,225,451,408,36-45,Female,Happy Hour,3,Monday,0
+123,164,634,411,432,46-55,Male,Discount,4,Friday,1
+124,956,372,460,189,36-45,Female,Buy One Get One,3,Thursday,0
+125,938,499,158,635,55+,Female,Discount,6,Friday,0
+126,620,844,230,369,36-45,Female,Loyalty Program,7,Saturday,1
+127,443,525,301,278,26-35,Female,Loyalty Program,4,Monday,0
+128,228,609,342,669,18-25,Male,Discount,3,Sunday,1
+129,747,317,134,409,36-45,Female,Discount,8,Wednesday,0
+130,571,1035,192,515,36-45,Male,Buy One Get One,4,Saturday,1
+131,162,986,306,693,26-35,Male,Discount,7,Sunday,1
+132,238,923,452,673,18-25,Male,Happy Hour,9,Wednesday,1
+133,598,424,490,165,18-25,Male,Happy Hour,2,Saturday,0
+134,692,731,431,278,55+,Female,Discount,5,Thursday,0
+135,491,312,404,258,36-45,Female,Happy Hour,9,Friday,0
+136,774,339,449,682,18-25,Female,Discount,3,Tuesday,0
+137,518,758,312,418,18-25,Male,Buy One Get One,6,Friday,1
+138,388,200,258,311,46-55,Male,Happy Hour,2,Monday,0
+139,478,289,123,409,46-55,Male,Happy Hour,9,Sunday,0
+140,872,853,392,251,18-25,Female,Discount,3,Tuesday,0
+141,589,519,103,655,55+,Male,Happy Hour,2,Wednesday,0
+142,330,749,319,396,18-25,Female,Loyalty Program,9,Thursday,1
+143,140,1004,463,686,26-35,Female,Buy One Get One,6,Thursday,1
+144,127,1093,481,280,36-45,Female,Buy One Get One,3,Wednesday,1
+145,234,338,119,502,55+,Female,Happy Hour,7,Monday,1
+146,300,710,251,345,26-35,Male,Happy Hour,7,Wednesday,1
+147,939,1067,149,531,55+,Female,Loyalty Program,6,Saturday,0
+148,879,1044,276,376,26-35,Male,Loyalty Program,4,Sunday,0
+149,132,458,195,625,36-45,Female,Happy Hour,6,Sunday,1
+150,147,872,204,626,36-45,Male,Happy Hour,4,Monday,1
+151,602,889,349,414,46-55,Male,Loyalty Program,3,Tuesday,1
+152,506,209,216,521,26-35,Female,Discount,9,Wednesday,0
+153,673,460,453,635,46-55,Female,Loyalty Program,4,Monday,0
+154,827,849,327,583,26-35,Female,Discount,3,Sunday,0
+155,904,371,165,360,46-55,Male,Buy One Get One,3,Tuesday,0
+156,198,1097,434,526,36-45,Female,Buy One Get One,8,Wednesday,1
+157,783,212,361,544,55+,Female,Loyalty Program,5,Thursday,0
+158,971,367,394,599,46-55,Male,Discount,3,Wednesday,0
+159,825,841,342,513,26-35,Female,Loyalty Program,4,Friday,0
+160,646,795,470,606,26-35,Male,Loyalty Program,5,Wednesday,1
+161,838,520,285,375,36-45,Female,Discount,5,Friday,0
+162,712,518,345,280,26-35,Male,Loyalty Program,3,Tuesday,0
+163,561,812,224,625,18-25,Male,Buy One Get One,6,Wednesday,1
+164,742,528,367,426,55+,Female,Happy Hour,6,Tuesday,0
+165,868,984,230,305,46-55,Male,Happy Hour,7,Tuesday,0
+166,104,976,336,367,55+,Female,Loyalty Program,5,Sunday,1
+167,317,749,117,339,36-45,Female,Discount,3,Monday,1
+168,602,618,139,566,46-55,Male,Discount,8,Tuesday,0
+169,866,805,120,695,46-55,Female,Buy One Get One,6,Tuesday,0
+170,497,294,498,190,18-25,Male,Discount,8,Sunday,0
+171,970,1016,324,456,36-45,Male,Discount,3,Sunday,0
+172,894,780,454,487,26-35,Male,Buy One Get One,3,Wednesday,0
+173,492,517,381,463,18-25,Male,Loyalty Program,9,Sunday,0
+174,306,435,107,224,18-25,Male,Happy Hour,5,Wednesday,1
+175,114,533,199,428,55+,Male,Buy One Get One,9,Thursday,1
+176,957,1084,339,325,55+,Male,Loyalty Program,8,Sunday,0
+177,653,575,186,422,55+,Male,Buy One Get One,9,Monday,0
+178,991,658,397,438,18-25,Female,Loyalty Program,7,Tuesday,0
+179,560,336,113,421,26-35,Female,Buy One Get One,5,Monday,0
+180,790,787,433,215,46-55,Male,Loyalty Program,2,Friday,0
+181,674,746,101,632,55+,Female,Buy One Get One,9,Sunday,0
+182,963,712,474,397,26-35,Female,Loyalty Program,8,Tuesday,0
+183,842,495,392,305,36-45,Female,Buy One Get One,6,Monday,0
+184,340,519,424,196,55+,Female,Happy Hour,6,Sunday,1
+185,663,771,140,603,46-55,Female,Happy Hour,6,Sunday,0
+186,195,1031,417,350,36-45,Female,Discount,4,Thursday,1
+187,999,548,415,273,36-45,Male,Loyalty Program,3,Thursday,0
+188,833,1039,480,150,46-55,Female,Buy One Get One,5,Tuesday,1
+189,584,978,210,340,55+,Female,Loyalty Program,6,Friday,1
+190,506,1072,113,665,18-25,Female,Happy Hour,2,Thursday,1
+191,330,428,330,591,46-55,Female,Loyalty Program,6,Thursday,1
+192,848,469,183,292,46-55,Male,Buy One Get One,7,Friday,0
+193,754,1027,229,340,46-55,Male,Loyalty Program,3,Monday,1
+194,270,997,330,682,36-45,Male,Buy One Get One,8,Thursday,1
+195,640,490,425,376,26-35,Male,Happy Hour,3,Wednesday,0
+196,135,924,244,462,18-25,Female,Happy Hour,9,Saturday,1
+197,624,364,478,451,55+,Male,Happy Hour,8,Saturday,0
+198,259,204,444,609,55+,Male,Discount,8,Thursday,0
+199,938,1050,127,550,26-35,Male,Happy Hour,9,Monday,0
+200,798,578,165,542,46-55,Male,Loyalty Program,5,Sunday,0
+201,342,277,262,356,18-25,Female,Discount,9,Monday,0
+202,185,609,328,359,55+,Male,Happy Hour,4,Tuesday,1
+203,895,773,360,264,55+,Female,Loyalty Program,8,Wednesday,0
+204,677,331,263,400,46-55,Male,Loyalty Program,8,Monday,0
+205,781,800,400,368,26-35,Female,Loyalty Program,9,Friday,0
+206,656,948,402,556,18-25,Female,Buy One Get One,5,Wednesday,1
+207,673,241,386,592,26-35,Male,Discount,6,Saturday,0
+208,745,288,494,503,26-35,Male,Loyalty Program,7,Wednesday,0
+209,895,601,109,699,18-25,Male,Buy One Get One,2,Friday,0
+210,127,495,294,291,18-25,Male,Happy Hour,5,Thursday,1
+211,719,1039,217,650,55+,Female,Loyalty Program,4,Friday,1
+212,655,494,369,696,55+,Female,Buy One Get One,5,Friday,0
+213,439,815,179,691,18-25,Male,Loyalty Program,3,Thursday,1
+214,897,725,192,656,36-45,Male,Discount,6,Thursday,0
+215,430,999,365,430,55+,Female,Discount,6,Thursday,1
+216,739,890,431,573,36-45,Male,Happy Hour,8,Thursday,1
+217,605,836,449,419,18-25,Female,Loyalty Program,6,Thursday,1
+218,447,621,460,303,55+,Male,Buy One Get One,6,Friday,1
+219,572,1064,356,232,26-35,Female,Happy Hour,9,Tuesday,1
+220,330,222,232,575,18-25,Female,Loyalty Program,6,Tuesday,0
+221,289,774,375,424,46-55,Female,Happy Hour,6,Monday,1
+222,324,342,363,433,36-45,Female,Buy One Get One,2,Tuesday,0
+223,484,864,270,322,18-25,Female,Happy Hour,4,Saturday,1
+224,476,344,100,476,18-25,Male,Happy Hour,8,Tuesday,0
+225,382,424,412,212,55+,Female,Happy Hour,9,Friday,0
+226,732,702,163,222,55+,Male,Loyalty Program,6,Thursday,0
+227,727,1020,473,524,55+,Female,Buy One Get One,8,Thursday,1
+228,844,815,383,657,46-55,Female,Discount,4,Sunday,0
+229,358,303,220,547,55+,Male,Loyalty Program,9,Sunday,0
+230,458,238,206,269,18-25,Male,Discount,7,Sunday,0
+231,809,397,274,586,55+,Male,Discount,6,Friday,0
+232,555,845,303,614,26-35,Male,Loyalty Program,8,Saturday,1
+233,510,778,264,435,55+,Female,Loyalty Program,5,Tuesday,1
+234,748,590,404,414,46-55,Male,Buy One Get One,9,Friday,0
+235,417,378,219,469,26-35,Female,Buy One Get One,9,Monday,0
+236,776,753,143,525,18-25,Male,Happy Hour,8,Thursday,0
+237,324,647,411,238,18-25,Male,Discount,6,Sunday,1
+238,918,699,255,352,36-45,Female,Buy One Get One,3,Wednesday,0
+239,333,214,466,483,26-35,Female,Happy Hour,2,Monday,0
+240,783,822,306,371,36-45,Male,Buy One Get One,5,Sunday,0
+241,763,868,489,190,26-35,Female,Loyalty Program,5,Saturday,0
+242,926,488,207,217,26-35,Female,Buy One Get One,3,Monday,0
+243,473,677,350,663,46-55,Female,Discount,6,Friday,1
+244,771,430,469,276,36-45,Female,Buy One Get One,9,Tuesday,0
+245,707,619,433,404,46-55,Female,Discount,9,Thursday,0
+246,571,356,229,165,26-35,Female,Loyalty Program,2,Saturday,0
+247,332,749,392,626,18-25,Female,Discount,5,Saturday,1
+248,791,640,119,211,26-35,Female,Buy One Get One,2,Wednesday,0
+249,212,296,381,581,46-55,Male,Happy Hour,5,Monday,1
+250,929,610,384,417,36-45,Female,Loyalty Program,6,Wednesday,0
+251,596,488,100,184,36-45,Male,Buy One Get One,7,Tuesday,0
+252,541,453,218,643,46-55,Female,Loyalty Program,5,Sunday,0
+253,663,395,134,618,36-45,Female,Loyalty Program,7,Tuesday,0
+254,367,797,297,474,55+,Female,Buy One Get One,5,Sunday,1
+255,609,1033,344,453,18-25,Female,Buy One Get One,9,Wednesday,1
+256,906,721,158,425,18-25,Male,Happy Hour,4,Thursday,0
+257,485,716,424,350,18-25,Male,Loyalty Program,6,Tuesday,1
+258,486,834,260,594,36-45,Female,Loyalty Program,3,Wednesday,1
+259,212,1041,278,473,36-45,Male,Buy One Get One,7,Monday,1
+260,712,1064,305,184,26-35,Female,Discount,3,Wednesday,1
+261,724,317,111,631,26-35,Female,Buy One Get One,6,Wednesday,0
+262,180,1005,375,629,18-25,Male,Loyalty Program,8,Friday,1
+263,798,358,280,214,55+,Male,Buy One Get One,3,Tuesday,0
+264,212,1014,341,157,26-35,Female,Happy Hour,6,Thursday,1
+265,101,427,315,450,26-35,Female,Discount,9,Thursday,1
+266,741,1076,350,492,36-45,Male,Buy One Get One,3,Friday,1
+267,319,415,398,580,55+,Female,Happy Hour,7,Sunday,1
+268,665,895,225,573,18-25,Male,Loyalty Program,4,Saturday,1
+269,954,214,316,481,26-35,Female,Buy One Get One,3,Sunday,0
+270,835,356,405,587,55+,Female,Loyalty Program,7,Thursday,0
+271,324,847,384,323,55+,Male,Happy Hour,5,Wednesday,1
+272,484,460,284,676,18-25,Male,Loyalty Program,6,Friday,0
+273,502,356,138,175,55+,Male,Happy Hour,2,Monday,0
+274,737,246,322,555,55+,Female,Happy Hour,8,Tuesday,0
+275,229,523,283,381,55+,Female,Happy Hour,9,Tuesday,1
+276,152,1043,277,682,26-35,Female,Buy One Get One,2,Tuesday,1
+277,783,884,393,699,18-25,Female,Loyalty Program,9,Wednesday,0
+278,829,329,439,654,55+,Male,Loyalty Program,6,Monday,0
+279,771,610,250,328,55+,Female,Discount,9,Friday,0
+280,809,294,483,281,26-35,Female,Discount,4,Friday,0
+281,515,826,225,604,18-25,Female,Discount,3,Tuesday,1
+282,346,954,400,497,36-45,Male,Discount,4,Monday,1
+283,935,491,407,689,26-35,Female,Loyalty Program,2,Monday,0
+284,538,993,435,555,18-25,Female,Happy Hour,8,Monday,1
+285,302,1010,333,225,55+,Male,Happy Hour,7,Thursday,1
+286,283,482,479,641,18-25,Female,Buy One Get One,8,Thursday,1
+287,222,268,474,343,18-25,Female,Happy Hour,6,Tuesday,1
+288,500,859,107,311,18-25,Male,Loyalty Program,6,Monday,1
+289,866,210,440,496,36-45,Female,Loyalty Program,4,Saturday,0
+290,393,453,228,510,18-25,Female,Loyalty Program,7,Monday,0
+291,379,1041,363,236,36-45,Female,Buy One Get One,4,Friday,1
+292,936,1071,256,411,55+,Male,Discount,3,Friday,0
+293,983,749,451,363,36-45,Female,Happy Hour,5,Tuesday,0
+294,709,333,457,411,55+,Female,Loyalty Program,7,Saturday,0
+295,297,911,104,432,55+,Male,Loyalty Program,5,Monday,1
+296,610,222,185,616,36-45,Male,Discount,8,Sunday,0
+297,851,1014,274,529,26-35,Female,Loyalty Program,3,Saturday,0
+298,243,545,389,511,46-55,Female,Happy Hour,9,Tuesday,1
+299,708,501,292,598,18-25,Female,Buy One Get One,9,Friday,0
+300,300,562,410,590,46-55,Female,Loyalty Program,5,Sunday,1
+301,223,595,218,242,18-25,Male,Happy Hour,2,Friday,1
+302,286,417,317,573,18-25,Female,Loyalty Program,8,Thursday,1
+303,425,340,213,291,55+,Male,Discount,5,Tuesday,0
+304,563,815,244,440,18-25,Male,Loyalty Program,3,Tuesday,1
+305,448,409,125,581,18-25,Female,Loyalty Program,5,Monday,0
+306,870,822,235,198,36-45,Female,Buy One Get One,6,Monday,0
+307,759,815,402,451,46-55,Male,Discount,4,Thursday,0
+308,863,1027,331,339,36-45,Male,Discount,2,Sunday,0
+309,502,882,468,285,18-25,Female,Buy One Get One,6,Wednesday,1
+310,445,659,175,553,55+,Male,Loyalty Program,6,Saturday,1
+311,610,555,427,490,36-45,Female,Happy Hour,3,Wednesday,0
+312,246,523,444,467,36-45,Female,Discount,4,Wednesday,1
+313,247,332,401,512,26-35,Male,Discount,4,Tuesday,1
+314,963,1087,388,531,18-25,Male,Loyalty Program,7,Saturday,0
+315,810,1004,100,382,55+,Female,Loyalty Program,8,Tuesday,1
+316,919,1039,246,493,36-45,Male,Discount,2,Saturday,0
+317,588,326,386,698,36-45,Female,Loyalty Program,8,Friday,0
+318,739,305,241,678,55+,Female,Happy Hour,3,Tuesday,0
+319,650,803,152,332,18-25,Female,Discount,2,Tuesday,1
+320,437,998,403,190,26-35,Male,Happy Hour,7,Tuesday,1
+321,971,577,168,546,36-45,Female,Happy Hour,5,Sunday,0
+322,740,250,460,643,26-35,Female,Loyalty Program,6,Thursday,0
+323,878,228,189,482,46-55,Female,Happy Hour,2,Tuesday,0
+324,572,661,319,276,18-25,Female,Loyalty Program,8,Monday,0
+325,250,495,291,150,46-55,Female,Buy One Get One,6,Monday,1
+326,514,496,162,317,46-55,Female,Loyalty Program,3,Saturday,0
+327,397,925,172,168,46-55,Female,Happy Hour,8,Friday,1
+328,710,978,260,481,18-25,Female,Buy One Get One,5,Thursday,1
+329,362,606,268,605,18-25,Female,Loyalty Program,3,Sunday,1
+330,863,968,188,258,55+,Female,Happy Hour,9,Saturday,0
+331,243,1013,275,417,26-35,Female,Discount,5,Monday,1
+332,445,812,368,594,26-35,Male,Discount,5,Thursday,1
+333,723,604,172,389,55+,Female,Loyalty Program,6,Thursday,0
+334,671,545,344,450,55+,Female,Loyalty Program,3,Friday,0
+335,980,821,176,252,46-55,Female,Discount,3,Thursday,0
+336,101,619,258,399,55+,Male,Happy Hour,2,Tuesday,1
+337,996,381,423,602,36-45,Female,Happy Hour,8,Thursday,0
+338,403,1024,197,669,26-35,Male,Happy Hour,9,Friday,1
+339,353,200,480,302,55+,Female,Loyalty Program,3,Saturday,0
+340,751,1030,201,323,36-45,Female,Buy One Get One,2,Friday,1
+341,552,766,231,492,36-45,Male,Buy One Get One,9,Sunday,1
+342,136,570,201,580,36-45,Female,Buy One Get One,4,Friday,1
+343,259,860,118,473,36-45,Male,Buy One Get One,4,Monday,1
+344,108,630,181,569,46-55,Male,Buy One Get One,9,Tuesday,1
+345,332,508,496,634,36-45,Female,Loyalty Program,4,Monday,1
+346,198,336,378,561,46-55,Female,Loyalty Program,7,Saturday,1
+347,758,401,438,233,46-55,Female,Buy One Get One,3,Wednesday,0
+348,915,635,464,262,36-45,Female,Loyalty Program,7,Saturday,0
+349,307,512,430,481,26-35,Male,Loyalty Program,8,Tuesday,1
+350,230,316,228,527,36-45,Male,Buy One Get One,3,Thursday,1
+351,503,865,443,190,36-45,Female,Happy Hour,2,Friday,1
+352,251,1002,409,254,36-45,Male,Loyalty Program,7,Wednesday,1
+353,153,774,188,351,26-35,Male,Happy Hour,7,Tuesday,1
+354,219,443,312,599,18-25,Female,Loyalty Program,8,Monday,1
+355,772,736,242,415,18-25,Male,Loyalty Program,7,Friday,0
+356,727,801,164,359,46-55,Male,Buy One Get One,5,Saturday,0
+357,686,274,175,267,46-55,Female,Loyalty Program,2,Monday,0
+358,724,1005,298,526,26-35,Male,Discount,4,Tuesday,1
+359,519,585,242,689,55+,Female,Discount,2,Tuesday,0
+360,521,409,415,233,18-25,Male,Buy One Get One,5,Saturday,0
+361,203,674,192,603,46-55,Female,Happy Hour,8,Wednesday,1
+362,951,617,404,663,18-25,Male,Happy Hour,8,Saturday,0
+363,353,546,323,536,26-35,Male,Happy Hour,3,Thursday,1
+364,326,728,390,499,26-35,Female,Discount,2,Monday,1
+365,211,839,201,445,55+,Female,Happy Hour,9,Wednesday,1
+366,609,1075,366,407,55+,Female,Happy Hour,9,Friday,1
+367,572,962,454,230,26-35,Female,Buy One Get One,8,Sunday,1
+368,198,378,209,417,46-55,Male,Happy Hour,7,Thursday,1
+369,252,381,429,568,18-25,Male,Discount,8,Wednesday,1
+370,960,863,364,384,36-45,Male,Discount,8,Sunday,0
+371,995,224,102,460,55+,Female,Discount,8,Sunday,0
+372,977,379,184,506,36-45,Male,Buy One Get One,8,Monday,0
+373,437,909,381,362,46-55,Male,Buy One Get One,9,Tuesday,1
+374,805,700,427,198,55+,Female,Loyalty Program,9,Friday,0
+375,921,1055,403,276,36-45,Female,Happy Hour,4,Saturday,0
+376,262,360,216,372,46-55,Male,Buy One Get One,4,Monday,1
+377,819,376,320,428,18-25,Female,Discount,3,Thursday,0
+378,780,484,253,557,46-55,Male,Discount,8,Sunday,0
+379,260,262,252,654,55+,Male,Buy One Get One,9,Thursday,0
+380,679,861,111,443,26-35,Female,Buy One Get One,2,Sunday,1
+381,900,865,232,426,18-25,Male,Buy One Get One,5,Tuesday,0
+382,497,355,403,587,36-45,Female,Loyalty Program,3,Tuesday,0
+383,376,1081,392,256,55+,Female,Discount,9,Friday,1
+384,915,668,399,569,26-35,Male,Loyalty Program,2,Saturday,0
+385,603,248,327,578,46-55,Male,Loyalty Program,8,Friday,0
+386,995,1048,370,524,26-35,Male,Happy Hour,6,Tuesday,0
+387,491,283,142,222,55+,Female,Discount,8,Tuesday,0
+388,234,560,442,179,55+,Male,Discount,4,Thursday,1
+389,294,888,425,337,26-35,Female,Buy One Get One,5,Tuesday,1
+390,500,347,401,513,46-55,Female,Buy One Get One,9,Wednesday,0
+391,739,829,463,600,26-35,Male,Happy Hour,9,Sunday,0
+392,132,541,478,344,55+,Female,Loyalty Program,7,Monday,1
+393,787,675,120,305,55+,Male,Buy One Get One,5,Tuesday,0
+394,559,262,206,321,36-45,Male,Buy One Get One,7,Friday,0
+395,982,900,435,190,36-45,Male,Discount,5,Saturday,0
+396,569,559,402,212,18-25,Male,Discount,4,Sunday,0
+397,474,760,216,172,55+,Male,Buy One Get One,7,Sunday,1
+398,121,526,223,509,36-45,Male,Discount,2,Saturday,1
+399,849,968,498,224,26-35,Male,Happy Hour,7,Saturday,0
+400,769,935,380,267,46-55,Female,Buy One Get One,3,Sunday,1
+401,137,340,391,529,26-35,Male,Discount,2,Wednesday,1
+402,329,414,302,439,46-55,Female,Happy Hour,3,Friday,1
+403,464,634,150,589,36-45,Female,Discount,8,Wednesday,1
+404,662,1090,370,156,18-25,Female,Discount,5,Tuesday,1
+405,537,922,423,345,26-35,Male,Discount,2,Monday,1
+406,875,517,376,570,26-35,Female,Buy One Get One,5,Saturday,0
+407,382,231,240,342,26-35,Female,Loyalty Program,8,Friday,0
+408,126,869,374,297,46-55,Male,Discount,6,Saturday,1
+409,325,484,389,351,36-45,Male,Happy Hour,9,Wednesday,1
+410,376,504,433,593,26-35,Female,Buy One Get One,5,Thursday,1
+411,897,628,480,568,26-35,Male,Buy One Get One,8,Tuesday,0
+412,708,676,472,576,18-25,Male,Happy Hour,5,Monday,0
+413,383,485,151,628,18-25,Male,Discount,8,Tuesday,1
+414,978,343,126,624,36-45,Male,Loyalty Program,3,Thursday,0
+415,580,623,256,275,36-45,Female,Discount,8,Monday,0
+416,552,218,338,544,55+,Male,Happy Hour,7,Thursday,0
+417,928,217,255,474,18-25,Male,Buy One Get One,6,Tuesday,0
+418,915,968,390,541,55+,Male,Loyalty Program,5,Wednesday,0
+419,758,789,235,589,46-55,Female,Buy One Get One,8,Sunday,0
+420,615,570,243,353,55+,Female,Happy Hour,8,Tuesday,0
+421,646,374,205,635,26-35,Male,Discount,5,Tuesday,0
+422,291,393,257,180,55+,Male,Loyalty Program,9,Tuesday,1
+423,148,701,245,537,36-45,Female,Buy One Get One,6,Friday,1
+424,611,312,101,583,46-55,Male,Buy One Get One,6,Thursday,0
+425,116,313,176,525,26-35,Male,Buy One Get One,8,Thursday,1
+426,271,421,231,493,55+,Female,Discount,2,Saturday,1
+427,319,877,189,592,46-55,Male,Loyalty Program,3,Thursday,1
+428,257,1030,444,224,46-55,Male,Discount,6,Saturday,1
+429,576,843,449,304,26-35,Female,Discount,6,Friday,1
+430,145,1096,362,579,55+,Female,Discount,4,Wednesday,1
+431,472,463,450,512,46-55,Male,Happy Hour,7,Saturday,0
+432,617,254,207,597,46-55,Female,Happy Hour,6,Tuesday,0
+433,198,1070,173,383,18-25,Male,Happy Hour,3,Wednesday,1
+434,991,842,138,411,46-55,Male,Loyalty Program,7,Sunday,0
+435,844,999,496,274,18-25,Male,Discount,7,Friday,0
+436,136,977,258,394,55+,Female,Discount,5,Thursday,1
+437,379,657,170,691,55+,Female,Happy Hour,5,Saturday,1
+438,448,1077,411,634,55+,Male,Discount,5,Tuesday,1
+439,596,361,340,271,36-45,Male,Discount,5,Monday,0
+440,401,579,397,274,55+,Female,Buy One Get One,4,Sunday,1
+441,280,286,135,698,46-55,Female,Discount,6,Monday,0
+442,706,254,183,319,26-35,Female,Buy One Get One,5,Wednesday,0
+443,198,675,473,273,18-25,Male,Discount,8,Thursday,1
+444,799,999,362,184,36-45,Female,Loyalty Program,2,Monday,1
+445,215,377,409,236,55+,Female,Happy Hour,5,Wednesday,1
+446,290,590,484,350,55+,Male,Buy One Get One,6,Friday,1
+447,352,548,271,518,26-35,Male,Happy Hour,5,Wednesday,1
+448,260,207,475,226,26-35,Male,Buy One Get One,4,Sunday,0
+449,355,1032,272,208,36-45,Female,Buy One Get One,3,Wednesday,1
+450,422,512,461,580,18-25,Male,Buy One Get One,3,Sunday,1
+451,227,958,146,649,55+,Male,Loyalty Program,6,Wednesday,1
+452,117,1034,478,258,36-45,Male,Discount,8,Tuesday,1
+453,892,642,240,427,46-55,Male,Buy One Get One,3,Wednesday,0
+454,834,966,474,217,46-55,Female,Loyalty Program,9,Saturday,0
+455,665,527,217,218,36-45,Male,Buy One Get One,3,Wednesday,0
+456,669,253,376,314,55+,Female,Discount,2,Tuesday,0
+457,422,960,313,638,36-45,Female,Buy One Get One,6,Tuesday,1
+458,971,438,319,454,55+,Female,Loyalty Program,8,Friday,0
+459,785,428,492,514,26-35,Male,Discount,6,Sunday,0
+460,891,778,125,528,36-45,Female,Loyalty Program,3,Thursday,0
+461,725,250,108,492,55+,Male,Discount,3,Monday,0
+462,387,808,370,503,36-45,Male,Discount,3,Monday,1
+463,953,803,109,565,36-45,Male,Happy Hour,7,Wednesday,0
+464,762,463,477,258,55+,Female,Happy Hour,4,Friday,0
+465,738,617,220,646,55+,Male,Happy Hour,5,Wednesday,0
+466,254,1002,224,490,18-25,Male,Discount,9,Monday,1
+467,589,295,269,532,36-45,Male,Buy One Get One,4,Sunday,0
+468,485,287,171,682,46-55,Female,Loyalty Program,6,Sunday,0
+469,884,277,251,449,36-45,Female,Loyalty Program,9,Sunday,0
+470,203,487,307,288,36-45,Female,Loyalty Program,2,Tuesday,1
+471,492,319,148,508,55+,Male,Happy Hour,5,Thursday,0
+472,910,1013,253,648,36-45,Female,Discount,2,Friday,0
+473,345,690,446,534,36-45,Male,Happy Hour,8,Tuesday,1
+474,275,651,392,429,46-55,Male,Buy One Get One,7,Thursday,1
+475,138,699,167,632,55+,Female,Discount,6,Friday,1
+476,576,364,149,260,36-45,Male,Loyalty Program,7,Friday,0
+477,781,381,251,288,26-35,Female,Happy Hour,6,Monday,0
+478,858,668,118,584,18-25,Male,Happy Hour,2,Tuesday,0
+479,637,934,199,658,46-55,Female,Buy One Get One,2,Friday,1
+480,966,1022,159,422,36-45,Male,Buy One Get One,2,Saturday,0
+481,917,206,266,248,26-35,Male,Happy Hour,6,Sunday,0
+482,507,529,301,253,36-45,Male,Buy One Get One,3,Friday,0
+483,624,974,444,363,36-45,Male,Loyalty Program,2,Thursday,1
+484,927,872,245,314,55+,Male,Buy One Get One,7,Monday,0
+485,605,350,263,669,55+,Female,Buy One Get One,8,Wednesday,0
+486,924,284,341,433,55+,Male,Happy Hour,5,Sunday,0
+487,135,346,168,666,26-35,Female,Happy Hour,6,Monday,1
+488,784,823,274,313,36-45,Female,Discount,9,Wednesday,0
+489,119,580,148,213,18-25,Female,Discount,7,Tuesday,1
+490,420,747,207,240,46-55,Male,Happy Hour,4,Tuesday,1
+491,875,484,325,266,55+,Male,Buy One Get One,8,Friday,0
+492,611,899,260,416,55+,Male,Buy One Get One,4,Saturday,1
+493,499,281,218,289,36-45,Female,Discount,5,Tuesday,0
+494,753,713,248,395,36-45,Male,Discount,3,Friday,0
+495,982,1096,249,544,26-35,Male,Discount,2,Sunday,0
+496,570,1014,392,636,26-35,Female,Loyalty Program,6,Monday,1
+497,242,908,242,625,55+,Female,Loyalty Program,7,Tuesday,1
+498,191,722,259,666,36-45,Female,Discount,9,Monday,1
+499,453,945,110,333,18-25,Female,Buy One Get One,2,Monday,1
+500,933,585,237,169,46-55,Female,Discount,7,Saturday,0
+501,899,906,177,673,36-45,Female,Loyalty Program,6,Tuesday,0
+502,826,670,176,678,36-45,Male,Buy One Get One,4,Monday,0
+503,953,318,353,296,26-35,Female,Loyalty Program,2,Saturday,0
+504,150,595,357,453,46-55,Male,Buy One Get One,5,Saturday,1
+505,764,731,419,377,55+,Male,Loyalty Program,3,Tuesday,0
+506,797,460,390,251,36-45,Male,Buy One Get One,5,Saturday,0
+507,674,1004,362,566,55+,Female,Buy One Get One,3,Tuesday,1
+508,289,455,184,365,36-45,Male,Buy One Get One,8,Tuesday,1
+509,224,933,245,556,55+,Female,Buy One Get One,7,Wednesday,1
+510,249,425,422,548,46-55,Female,Happy Hour,2,Monday,1
+511,413,252,141,648,26-35,Male,Loyalty Program,2,Thursday,0
+512,669,1066,473,614,46-55,Female,Loyalty Program,8,Tuesday,1
+513,441,699,224,231,18-25,Male,Happy Hour,3,Monday,1
+514,404,705,266,514,26-35,Male,Buy One Get One,4,Sunday,1
+515,791,1053,340,312,46-55,Female,Buy One Get One,6,Saturday,1
+516,781,563,379,197,18-25,Male,Loyalty Program,5,Friday,0
+517,937,479,287,660,36-45,Male,Happy Hour,8,Tuesday,0
+518,882,792,401,478,36-45,Male,Buy One Get One,9,Saturday,0
+519,153,913,118,265,55+,Female,Buy One Get One,9,Saturday,1
+520,543,357,167,486,26-35,Male,Buy One Get One,7,Saturday,0
+521,712,831,317,296,36-45,Female,Discount,8,Saturday,0
+522,363,258,201,472,26-35,Female,Happy Hour,5,Saturday,0
+523,152,926,141,592,36-45,Male,Buy One Get One,5,Tuesday,1
+524,671,327,387,162,55+,Male,Discount,7,Sunday,0
+525,719,935,266,643,46-55,Female,Happy Hour,7,Thursday,1
+526,104,920,208,436,55+,Female,Buy One Get One,2,Wednesday,1
+527,202,1081,135,263,18-25,Male,Loyalty Program,5,Saturday,1
+528,295,314,331,629,36-45,Male,Discount,6,Saturday,0
+529,873,408,328,171,18-25,Female,Discount,9,Wednesday,0
+530,976,725,452,498,18-25,Female,Buy One Get One,6,Sunday,0
+531,983,720,263,469,26-35,Female,Buy One Get One,3,Sunday,0
+532,449,751,486,275,36-45,Female,Discount,8,Tuesday,1
+533,146,436,172,426,18-25,Female,Loyalty Program,7,Monday,1
+534,966,480,235,353,46-55,Male,Loyalty Program,2,Friday,0
+535,922,558,452,343,18-25,Female,Happy Hour,6,Friday,0
+536,919,400,478,696,46-55,Female,Buy One Get One,4,Monday,0
+537,755,957,169,435,26-35,Male,Loyalty Program,9,Tuesday,1
+538,368,477,295,206,18-25,Male,Happy Hour,2,Friday,1
+539,469,434,368,452,55+,Female,Loyalty Program,2,Sunday,0
+540,735,693,148,312,26-35,Female,Buy One Get One,6,Wednesday,0
+541,205,203,415,168,46-55,Male,Happy Hour,4,Monday,0
+542,769,865,229,519,26-35,Female,Happy Hour,3,Sunday,0
+543,758,641,104,413,18-25,Female,Happy Hour,6,Thursday,0
+544,756,228,126,262,36-45,Male,Loyalty Program,4,Tuesday,0
+545,219,308,259,637,36-45,Female,Buy One Get One,2,Monday,1
+546,930,809,248,476,46-55,Male,Happy Hour,9,Friday,0
+547,886,926,363,691,46-55,Male,Discount,4,Tuesday,0
+548,703,1004,329,214,36-45,Male,Buy One Get One,2,Wednesday,1
+549,157,274,299,441,46-55,Male,Discount,8,Tuesday,1
+550,445,1037,149,174,26-35,Female,Discount,6,Tuesday,1
+551,840,345,166,698,55+,Male,Happy Hour,7,Wednesday,0
+552,573,327,399,150,55+,Female,Happy Hour,6,Saturday,0
+553,216,1052,480,698,26-35,Female,Loyalty Program,8,Wednesday,1
+554,929,241,157,290,55+,Female,Loyalty Program,5,Sunday,0
+555,890,555,358,337,18-25,Female,Loyalty Program,5,Tuesday,0
+556,226,240,441,277,26-35,Female,Buy One Get One,5,Wednesday,0
+557,492,233,425,350,46-55,Male,Loyalty Program,6,Saturday,0
+558,740,216,229,276,26-35,Male,Discount,3,Sunday,0
+559,157,876,314,406,36-45,Male,Loyalty Program,6,Monday,1
+560,733,352,271,696,46-55,Male,Happy Hour,9,Wednesday,0
+561,612,577,357,343,36-45,Female,Loyalty Program,8,Wednesday,0
+562,850,787,201,253,46-55,Male,Buy One Get One,9,Tuesday,0
+563,901,798,308,684,55+,Female,Buy One Get One,8,Sunday,0
+564,195,828,390,414,26-35,Female,Discount,7,Monday,1
+565,737,1073,453,533,18-25,Male,Buy One Get One,4,Thursday,1
+566,217,541,385,409,46-55,Male,Loyalty Program,6,Thursday,1
+567,659,226,215,563,46-55,Male,Happy Hour,6,Friday,0
+568,700,1024,363,507,36-45,Male,Buy One Get One,2,Wednesday,1
+569,587,486,249,224,55+,Female,Discount,8,Wednesday,0
+570,336,845,399,504,36-45,Female,Loyalty Program,2,Monday,1
+571,984,930,135,337,36-45,Male,Discount,2,Saturday,0
+572,996,367,432,439,55+,Female,Buy One Get One,6,Thursday,0
+573,371,809,386,194,18-25,Female,Buy One Get One,3,Friday,1
+574,288,467,402,232,36-45,Female,Discount,4,Monday,1
+575,803,948,410,272,36-45,Male,Loyalty Program,4,Wednesday,0
+576,546,1020,307,507,46-55,Female,Buy One Get One,9,Thursday,1
+577,680,654,205,677,55+,Male,Happy Hour,8,Sunday,0
+578,889,884,257,215,26-35,Male,Buy One Get One,7,Friday,0
+579,960,600,220,524,18-25,Female,Loyalty Program,8,Tuesday,0
+580,346,675,154,311,18-25,Female,Buy One Get One,3,Thursday,1
+581,175,901,499,529,55+,Male,Discount,3,Friday,1
+582,253,833,111,507,46-55,Female,Buy One Get One,4,Monday,1
+583,755,757,244,337,46-55,Female,Buy One Get One,5,Tuesday,0
+584,534,775,499,471,55+,Male,Loyalty Program,2,Friday,1
+585,185,329,495,599,46-55,Male,Discount,2,Friday,1
+586,796,1021,235,623,18-25,Male,Loyalty Program,4,Wednesday,1
+587,384,562,102,162,18-25,Male,Buy One Get One,8,Saturday,1
+588,319,904,243,333,26-35,Female,Happy Hour,3,Thursday,1
+589,168,1018,129,260,55+,Female,Buy One Get One,8,Wednesday,1
+590,146,892,336,657,36-45,Male,Loyalty Program,7,Sunday,1
+591,193,491,378,439,36-45,Male,Happy Hour,5,Tuesday,1
+592,849,570,447,444,26-35,Male,Loyalty Program,4,Saturday,0
+593,552,993,214,600,26-35,Female,Loyalty Program,2,Friday,1
+594,303,228,203,364,46-55,Male,Discount,6,Wednesday,0
+595,317,348,217,176,26-35,Female,Happy Hour,8,Saturday,0
+596,573,978,104,380,26-35,Male,Buy One Get One,3,Sunday,1
+597,531,495,459,470,36-45,Male,Loyalty Program,6,Thursday,0
+598,440,210,347,382,46-55,Male,Buy One Get One,7,Sunday,0
+599,650,711,463,586,26-35,Female,Discount,4,Tuesday,0
+600,711,875,420,682,26-35,Female,Discount,8,Monday,1
+601,388,312,220,552,46-55,Female,Happy Hour,2,Wednesday,0
+602,353,386,385,202,55+,Male,Discount,8,Tuesday,0
+603,833,1006,248,462,46-55,Female,Discount,5,Monday,1
+604,456,943,183,430,36-45,Female,Buy One Get One,9,Wednesday,1
+605,122,426,330,180,55+,Male,Discount,6,Tuesday,1
+606,861,509,387,486,18-25,Male,Discount,5,Sunday,0
+607,621,297,260,332,46-55,Female,Loyalty Program,7,Tuesday,0
+608,857,254,371,172,36-45,Female,Discount,2,Saturday,0
+609,936,822,137,693,55+,Female,Loyalty Program,6,Sunday,0
+610,199,863,325,595,46-55,Female,Discount,7,Wednesday,1
+611,901,957,241,223,26-35,Male,Discount,5,Tuesday,0
+612,279,605,391,159,46-55,Male,Happy Hour,5,Friday,1
+613,322,268,250,633,18-25,Male,Happy Hour,9,Wednesday,0
+614,861,511,213,605,46-55,Female,Loyalty Program,6,Tuesday,0
+615,758,488,336,309,55+,Female,Discount,2,Saturday,0
+616,541,961,165,163,55+,Male,Buy One Get One,5,Monday,1
+617,707,747,460,327,46-55,Male,Happy Hour,4,Monday,0
+618,868,950,440,561,55+,Female,Buy One Get One,9,Friday,0
+619,424,347,357,202,26-35,Female,Happy Hour,7,Wednesday,0
+620,615,666,348,557,46-55,Male,Happy Hour,6,Saturday,0
+621,115,938,430,171,26-35,Male,Discount,3,Tuesday,1
+622,891,443,422,179,26-35,Male,Happy Hour,3,Tuesday,0
+623,435,690,279,409,36-45,Female,Buy One Get One,2,Monday,1
+624,858,1048,289,354,46-55,Female,Happy Hour,4,Saturday,1
+625,357,706,253,208,55+,Female,Loyalty Program,5,Sunday,1
+626,596,564,295,620,26-35,Female,Discount,3,Friday,0
+627,995,681,410,615,36-45,Female,Discount,2,Monday,0
+628,259,400,361,161,46-55,Female,Loyalty Program,7,Monday,1
+629,574,353,242,439,46-55,Male,Loyalty Program,9,Friday,0
+630,951,649,441,503,18-25,Male,Loyalty Program,4,Wednesday,0
+631,763,700,415,224,18-25,Female,Happy Hour,4,Tuesday,0
+632,789,272,200,590,26-35,Male,Discount,8,Wednesday,0
+633,774,912,343,390,18-25,Female,Loyalty Program,2,Saturday,0
+634,479,495,111,303,26-35,Male,Happy Hour,2,Sunday,0
+635,644,216,338,245,55+,Female,Loyalty Program,8,Thursday,0
+636,790,840,148,443,26-35,Male,Buy One Get One,9,Thursday,0
+637,526,416,141,358,18-25,Male,Buy One Get One,5,Thursday,0
+638,712,260,265,492,55+,Female,Discount,2,Friday,0
+639,367,815,181,237,18-25,Female,Happy Hour,8,Monday,1
+640,934,241,390,539,26-35,Male,Buy One Get One,5,Sunday,0
+641,676,224,257,474,36-45,Male,Buy One Get One,9,Wednesday,0
+642,516,238,315,306,46-55,Female,Happy Hour,5,Tuesday,0
+643,267,1002,257,286,18-25,Male,Loyalty Program,6,Thursday,1
+644,941,330,233,577,26-35,Female,Happy Hour,4,Wednesday,0
+645,142,697,166,601,55+,Female,Loyalty Program,7,Thursday,1
+646,655,428,435,290,18-25,Male,Buy One Get One,4,Sunday,0
+647,384,307,106,232,18-25,Female,Buy One Get One,4,Thursday,0
+648,496,371,113,326,46-55,Male,Buy One Get One,6,Tuesday,0
+649,111,634,172,347,26-35,Male,Discount,5,Saturday,1
+650,706,677,498,570,36-45,Female,Discount,5,Saturday,0
+651,401,301,262,550,55+,Male,Discount,2,Sunday,0
+652,997,1065,165,620,26-35,Female,Happy Hour,6,Saturday,0
+653,352,723,446,367,55+,Female,Buy One Get One,2,Friday,1
+654,598,474,229,324,18-25,Female,Buy One Get One,6,Monday,0
+655,853,812,305,172,46-55,Male,Happy Hour,2,Friday,0
+656,134,243,375,384,46-55,Female,Discount,3,Wednesday,1
+657,826,1016,355,162,36-45,Male,Happy Hour,8,Friday,1
+658,948,216,365,250,46-55,Female,Discount,4,Wednesday,0
+659,189,529,124,685,18-25,Female,Buy One Get One,4,Wednesday,1
+660,875,768,380,672,36-45,Female,Loyalty Program,9,Monday,0
+661,704,1022,352,601,26-35,Male,Discount,7,Tuesday,1
+662,701,696,409,580,46-55,Male,Buy One Get One,8,Sunday,0
+663,517,1014,388,682,36-45,Female,Buy One Get One,5,Monday,1
+664,214,211,263,442,18-25,Female,Loyalty Program,7,Sunday,0
+665,716,517,194,250,55+,Male,Buy One Get One,3,Saturday,0
+666,295,791,369,651,55+,Male,Buy One Get One,9,Saturday,1
+667,925,415,420,453,18-25,Male,Discount,7,Friday,0
+668,600,538,209,689,18-25,Female,Discount,9,Wednesday,0
+669,725,975,435,504,55+,Male,Loyalty Program,4,Thursday,1
+670,592,860,409,452,36-45,Female,Loyalty Program,5,Thursday,1
+671,174,280,337,645,55+,Male,Buy One Get One,3,Sunday,1
+672,512,926,480,376,18-25,Female,Discount,4,Wednesday,1
+673,475,684,486,385,46-55,Female,Loyalty Program,8,Sunday,1
+674,519,573,489,604,26-35,Female,Loyalty Program,2,Monday,0
+675,828,909,124,162,46-55,Male,Happy Hour,6,Tuesday,0
+676,376,399,240,359,46-55,Male,Loyalty Program,3,Monday,0
+677,860,736,216,546,18-25,Male,Buy One Get One,5,Wednesday,0
+678,775,665,491,249,55+,Female,Discount,9,Wednesday,0
+679,493,288,124,180,36-45,Female,Loyalty Program,7,Tuesday,0
+680,968,467,178,677,46-55,Male,Happy Hour,8,Sunday,0
+681,556,854,167,478,55+,Female,Discount,7,Friday,1
+682,291,770,272,315,36-45,Female,Loyalty Program,3,Friday,1
+683,838,688,111,608,46-55,Female,Happy Hour,8,Tuesday,0
+684,788,1076,387,249,36-45,Male,Loyalty Program,5,Friday,1
+685,198,737,227,322,55+,Female,Discount,3,Thursday,1
+686,647,246,195,311,26-35,Male,Discount,5,Friday,0
+687,195,487,191,412,55+,Male,Discount,7,Friday,1
+688,763,977,240,423,18-25,Male,Buy One Get One,4,Friday,1
+689,762,215,130,152,36-45,Male,Loyalty Program,8,Thursday,0
+690,289,910,433,177,26-35,Male,Buy One Get One,2,Sunday,1
+691,835,600,119,475,36-45,Female,Discount,4,Friday,0
+692,136,993,245,298,36-45,Male,Happy Hour,2,Saturday,1
+693,879,285,415,689,46-55,Male,Loyalty Program,7,Thursday,0
+694,468,449,489,637,18-25,Male,Buy One Get One,9,Tuesday,0
+695,794,590,259,587,36-45,Female,Loyalty Program,8,Monday,0
+696,624,981,448,214,55+,Female,Happy Hour,4,Tuesday,1
+697,378,534,142,505,55+,Female,Buy One Get One,4,Monday,1
+698,316,828,353,682,46-55,Female,Discount,3,Tuesday,1
+699,966,718,229,401,18-25,Male,Buy One Get One,6,Saturday,0
+700,972,336,159,384,18-25,Male,Loyalty Program,7,Monday,0
+701,897,1082,250,376,55+,Female,Loyalty Program,5,Monday,1
+702,372,887,386,674,26-35,Female,Loyalty Program,7,Wednesday,1
+703,980,1039,104,462,46-55,Female,Loyalty Program,5,Monday,0
+704,161,697,365,198,46-55,Female,Discount,8,Monday,1
+705,695,1026,444,267,55+,Male,Buy One Get One,5,Wednesday,1
+706,979,926,229,203,55+,Female,Discount,9,Friday,0
+707,828,676,481,193,26-35,Female,Discount,2,Friday,0
+708,441,793,366,202,26-35,Female,Discount,5,Wednesday,1
+709,496,422,277,674,18-25,Female,Loyalty Program,5,Thursday,0
+710,798,571,352,251,46-55,Female,Loyalty Program,3,Monday,0
+711,118,601,155,547,46-55,Female,Loyalty Program,4,Monday,1
+712,276,642,182,287,55+,Female,Buy One Get One,7,Wednesday,1
+713,711,689,492,536,18-25,Male,Happy Hour,7,Wednesday,0
+714,495,814,198,260,46-55,Male,Loyalty Program,8,Thursday,1
+715,544,472,248,166,18-25,Male,Buy One Get One,8,Saturday,0
+716,332,725,428,331,18-25,Male,Loyalty Program,9,Friday,1
+717,175,358,255,685,55+,Male,Loyalty Program,5,Tuesday,1
+718,364,351,289,690,18-25,Male,Discount,6,Saturday,0
+719,554,819,470,320,26-35,Female,Discount,7,Sunday,1
+720,895,387,362,558,26-35,Female,Discount,8,Friday,0
+721,817,1012,179,527,36-45,Male,Buy One Get One,5,Monday,1
+722,834,297,499,337,55+,Female,Happy Hour,8,Sunday,0
+723,483,330,351,379,36-45,Male,Happy Hour,9,Saturday,0
+724,663,1004,196,268,26-35,Female,Buy One Get One,2,Wednesday,1
+725,950,370,359,305,36-45,Female,Loyalty Program,2,Thursday,0
+726,605,382,359,614,55+,Female,Buy One Get One,8,Friday,0
+727,466,563,202,253,55+,Female,Loyalty Program,2,Thursday,1
+728,243,238,139,651,18-25,Female,Buy One Get One,8,Sunday,0
+729,984,726,372,324,46-55,Female,Buy One Get One,5,Friday,0
+730,168,1087,200,570,18-25,Male,Buy One Get One,3,Saturday,1
+731,198,696,458,283,55+,Male,Happy Hour,6,Monday,1
+732,495,715,479,540,26-35,Female,Discount,5,Tuesday,1
+733,124,548,407,650,26-35,Male,Buy One Get One,3,Thursday,1
+734,990,596,320,182,18-25,Female,Happy Hour,3,Thursday,0
+735,568,921,407,204,55+,Male,Discount,7,Tuesday,1
+736,583,360,223,668,26-35,Female,Discount,5,Thursday,0
+737,664,215,330,161,55+,Male,Buy One Get One,5,Thursday,0
+738,250,692,277,677,26-35,Female,Loyalty Program,8,Friday,1
+739,243,625,162,522,55+,Male,Loyalty Program,3,Friday,1
+740,668,307,215,633,36-45,Female,Loyalty Program,3,Tuesday,0
+741,138,1093,290,377,55+,Male,Buy One Get One,3,Sunday,1
+742,208,649,161,456,55+,Female,Loyalty Program,8,Monday,1
+743,792,510,355,606,18-25,Female,Happy Hour,7,Saturday,0
+744,141,938,106,309,36-45,Female,Happy Hour,5,Saturday,1
+745,285,369,254,480,46-55,Male,Happy Hour,3,Sunday,1
+746,497,745,191,374,18-25,Male,Happy Hour,2,Thursday,1
+747,322,613,113,653,46-55,Male,Discount,5,Monday,1
+748,733,450,328,605,26-35,Female,Happy Hour,8,Tuesday,0
+749,232,958,185,194,46-55,Male,Loyalty Program,7,Sunday,1
+750,262,980,232,363,55+,Female,Buy One Get One,2,Tuesday,1
+751,314,340,282,208,46-55,Male,Loyalty Program,8,Friday,0
+752,832,473,485,344,18-25,Male,Happy Hour,4,Thursday,0
+753,334,615,161,638,18-25,Male,Discount,5,Wednesday,1
+754,942,807,318,306,46-55,Male,Happy Hour,4,Tuesday,0
+755,757,938,345,375,18-25,Female,Buy One Get One,8,Sunday,1
+756,850,1090,329,561,18-25,Male,Loyalty Program,8,Thursday,1
+757,687,238,178,354,46-55,Male,Buy One Get One,8,Monday,0
+758,108,1013,248,228,36-45,Female,Buy One Get One,3,Sunday,1
+759,173,228,237,273,36-45,Female,Buy One Get One,7,Friday,1
+760,591,676,413,620,26-35,Male,Loyalty Program,3,Saturday,0
+761,352,517,475,367,18-25,Male,Happy Hour,7,Monday,1
+762,329,444,488,665,46-55,Female,Buy One Get One,6,Tuesday,1
+763,618,947,164,253,18-25,Female,Loyalty Program,3,Tuesday,1
+764,273,896,112,542,55+,Female,Discount,4,Monday,1
+765,752,471,312,583,18-25,Male,Loyalty Program,7,Tuesday,0
+766,267,639,341,480,18-25,Male,Discount,3,Sunday,1
+767,269,947,312,292,36-45,Male,Loyalty Program,5,Thursday,1
+768,492,438,280,689,46-55,Female,Happy Hour,8,Tuesday,0
+769,894,576,437,427,18-25,Female,Buy One Get One,7,Friday,0
+770,733,465,272,382,36-45,Female,Happy Hour,7,Thursday,0
+771,293,558,259,678,26-35,Male,Loyalty Program,3,Sunday,1
+772,616,539,263,239,36-45,Female,Buy One Get One,6,Wednesday,0
+773,128,588,287,641,36-45,Male,Discount,3,Tuesday,1
+774,264,776,494,348,36-45,Female,Loyalty Program,9,Tuesday,1
+775,521,888,290,511,18-25,Male,Buy One Get One,4,Friday,1
+776,438,202,407,590,18-25,Male,Discount,4,Sunday,0
+777,747,628,355,175,26-35,Female,Discount,7,Friday,0
+778,595,341,282,174,55+,Male,Happy Hour,7,Saturday,0
+779,464,575,216,543,55+,Female,Loyalty Program,3,Sunday,1
+780,932,869,381,656,55+,Male,Discount,4,Monday,0
+781,441,523,295,450,26-35,Female,Buy One Get One,4,Monday,0
+782,599,345,133,488,55+,Female,Discount,6,Monday,0
+783,756,492,151,416,55+,Male,Discount,5,Friday,0
+784,610,864,211,610,36-45,Female,Happy Hour,6,Monday,1
+785,426,631,351,605,18-25,Male,Happy Hour,9,Sunday,1
+786,316,904,181,509,18-25,Female,Buy One Get One,2,Monday,1
+787,400,784,331,217,36-45,Female,Happy Hour,8,Wednesday,1
+788,231,598,326,561,36-45,Female,Discount,6,Monday,1
+789,903,1016,332,640,36-45,Female,Discount,9,Tuesday,0
+790,169,1088,320,198,18-25,Male,Happy Hour,3,Saturday,1
+791,351,543,141,251,55+,Female,Discount,5,Friday,1
+792,514,339,120,365,36-45,Female,Discount,3,Thursday,0
+793,886,386,141,587,26-35,Male,Buy One Get One,8,Saturday,0
+794,544,1004,496,308,36-45,Male,Happy Hour,9,Wednesday,1
+795,975,260,212,638,46-55,Male,Discount,2,Friday,0
+796,281,579,204,391,36-45,Male,Happy Hour,5,Sunday,1
+797,266,909,291,154,18-25,Male,Buy One Get One,7,Friday,1
+798,190,1006,116,510,36-45,Male,Happy Hour,4,Tuesday,1
+799,813,639,219,608,46-55,Female,Discount,6,Sunday,0
+800,957,518,492,397,26-35,Male,Happy Hour,9,Saturday,0
+801,630,501,228,571,55+,Female,Discount,3,Saturday,0
+802,138,543,229,164,36-45,Male,Discount,2,Monday,1
+803,225,210,159,271,46-55,Female,Discount,4,Sunday,0
+804,550,261,147,426,46-55,Female,Buy One Get One,6,Tuesday,0
+805,272,1044,128,602,26-35,Female,Happy Hour,4,Monday,1
+806,752,425,196,539,18-25,Male,Buy One Get One,6,Monday,0
+807,853,352,109,443,36-45,Male,Happy Hour,9,Friday,0
+808,319,910,341,595,46-55,Male,Buy One Get One,7,Saturday,1
+809,737,763,413,359,26-35,Male,Loyalty Program,5,Monday,0
+810,157,971,331,451,55+,Female,Discount,9,Wednesday,1
+811,759,770,376,372,46-55,Male,Discount,4,Wednesday,0
+812,575,783,383,152,26-35,Female,Buy One Get One,4,Saturday,1
+813,555,859,302,667,18-25,Female,Loyalty Program,4,Wednesday,1
+814,928,1060,346,242,18-25,Male,Discount,5,Friday,0
+815,994,774,389,669,46-55,Male,Happy Hour,2,Tuesday,0
+816,460,509,363,577,46-55,Male,Buy One Get One,6,Thursday,0
+817,100,1084,313,642,36-45,Female,Discount,9,Monday,1
+818,486,442,299,384,26-35,Male,Discount,9,Thursday,0
+819,447,692,178,310,46-55,Female,Buy One Get One,7,Tuesday,1
+820,289,565,442,480,36-45,Male,Buy One Get One,4,Tuesday,1
+821,604,529,443,482,36-45,Female,Happy Hour,8,Friday,0
+822,290,306,272,199,46-55,Male,Happy Hour,9,Wednesday,0
+823,607,425,168,672,18-25,Male,Discount,5,Wednesday,0
+824,468,1024,186,641,26-35,Female,Discount,2,Tuesday,1
+825,508,417,200,421,26-35,Male,Buy One Get One,9,Friday,0
+826,923,952,107,401,18-25,Male,Discount,6,Friday,0
+827,216,705,432,239,46-55,Male,Discount,5,Saturday,1
+828,233,458,299,595,26-35,Male,Buy One Get One,7,Sunday,1
+829,157,1087,186,481,46-55,Male,Discount,7,Monday,1
+830,655,973,142,288,46-55,Male,Discount,6,Sunday,1
+831,784,716,484,506,36-45,Male,Loyalty Program,4,Wednesday,0
+832,771,972,208,423,18-25,Female,Happy Hour,7,Tuesday,1
+833,272,253,251,168,46-55,Female,Buy One Get One,2,Saturday,0
+834,928,246,116,460,55+,Male,Loyalty Program,5,Thursday,0
+835,914,926,232,303,18-25,Male,Happy Hour,9,Wednesday,0
+836,248,888,247,539,26-35,Male,Happy Hour,2,Monday,1
+837,179,720,376,409,36-45,Female,Happy Hour,4,Friday,1
+838,985,298,331,274,26-35,Female,Loyalty Program,2,Tuesday,0
+839,312,219,413,503,26-35,Male,Loyalty Program,2,Wednesday,0
+840,302,1089,465,422,18-25,Female,Happy Hour,3,Thursday,1
+841,863,952,327,394,26-35,Male,Discount,2,Monday,0
+842,328,772,238,599,46-55,Male,Discount,6,Monday,1
+843,775,1090,498,396,26-35,Male,Loyalty Program,5,Saturday,1
+844,326,689,310,669,36-45,Male,Loyalty Program,3,Wednesday,1
+845,758,618,490,290,36-45,Female,Loyalty Program,5,Thursday,0
+846,631,889,127,511,55+,Female,Happy Hour,5,Monday,1
+847,540,1049,150,157,36-45,Male,Discount,4,Tuesday,1
+848,501,261,360,627,26-35,Female,Loyalty Program,4,Monday,0
+849,146,344,360,501,36-45,Female,Loyalty Program,3,Thursday,1
+850,332,415,449,644,18-25,Male,Buy One Get One,7,Friday,1
+851,404,202,451,576,36-45,Female,Happy Hour,8,Friday,0
+852,625,359,107,188,46-55,Male,Buy One Get One,4,Saturday,0
+853,242,938,419,336,18-25,Male,Discount,8,Wednesday,1
+854,514,980,237,242,55+,Male,Buy One Get One,4,Thursday,1
+855,612,319,137,235,46-55,Male,Buy One Get One,4,Saturday,0
+856,472,1092,210,193,26-35,Female,Buy One Get One,5,Sunday,1
+857,665,288,467,286,26-35,Male,Happy Hour,3,Monday,0
+858,985,528,319,570,26-35,Female,Discount,5,Sunday,0
+859,358,779,436,223,46-55,Male,Buy One Get One,9,Monday,1
+860,755,556,322,697,46-55,Male,Happy Hour,6,Friday,0
+861,570,809,235,661,46-55,Female,Discount,5,Saturday,1
+862,111,466,355,305,18-25,Male,Loyalty Program,8,Friday,1
+863,429,816,459,404,18-25,Female,Buy One Get One,8,Tuesday,1
+864,835,522,428,320,26-35,Female,Discount,6,Sunday,0
+865,883,834,148,319,36-45,Male,Buy One Get One,2,Sunday,0
+866,457,740,391,471,26-35,Male,Loyalty Program,2,Friday,1
+867,507,848,481,605,55+,Male,Discount,6,Tuesday,1
+868,767,394,423,304,18-25,Male,Happy Hour,6,Monday,0
+869,472,937,177,498,46-55,Male,Discount,5,Saturday,1
+870,107,531,204,600,18-25,Male,Happy Hour,6,Tuesday,1
+871,221,369,268,322,46-55,Female,Discount,9,Saturday,1
+872,447,720,316,159,55+,Female,Happy Hour,3,Sunday,1
+873,775,662,477,414,55+,Male,Loyalty Program,2,Saturday,0
+874,189,239,218,587,18-25,Female,Loyalty Program,2,Sunday,1
+875,747,736,289,396,46-55,Female,Loyalty Program,9,Tuesday,0
+876,797,460,354,695,55+,Male,Discount,7,Sunday,0
+877,415,594,469,648,26-35,Male,Loyalty Program,9,Wednesday,1
+878,277,425,365,278,26-35,Female,Buy One Get One,9,Sunday,1
+879,639,323,248,476,46-55,Male,Loyalty Program,6,Friday,0
+880,831,237,263,553,18-25,Female,Happy Hour,4,Tuesday,0
+881,968,527,239,508,55+,Male,Happy Hour,4,Monday,0
+882,140,450,446,166,18-25,Female,Happy Hour,9,Saturday,1
+883,839,375,357,423,26-35,Female,Discount,6,Thursday,0
+884,803,801,473,265,55+,Female,Buy One Get One,3,Tuesday,0
+885,601,653,368,240,18-25,Female,Loyalty Program,4,Friday,0
+886,244,236,280,231,36-45,Male,Buy One Get One,7,Sunday,0
+887,300,515,259,473,46-55,Male,Buy One Get One,8,Saturday,1
+888,823,887,450,263,46-55,Female,Happy Hour,6,Wednesday,0
+889,560,995,499,207,36-45,Female,Happy Hour,9,Monday,1
+890,831,792,387,303,26-35,Male,Happy Hour,3,Wednesday,0
+891,851,313,387,553,55+,Male,Discount,3,Thursday,0
+892,657,239,479,415,46-55,Female,Buy One Get One,5,Tuesday,0
+893,646,500,325,464,36-45,Female,Buy One Get One,3,Saturday,0
+894,352,423,110,190,36-45,Female,Discount,4,Tuesday,1
+895,489,517,109,254,26-35,Female,Discount,9,Friday,0
+896,693,548,370,342,26-35,Female,Discount,8,Tuesday,0
+897,982,314,372,550,18-25,Male,Buy One Get One,4,Monday,0
+898,355,897,282,427,46-55,Female,Buy One Get One,6,Thursday,1
+899,808,522,252,503,18-25,Male,Happy Hour,8,Wednesday,0
+900,914,767,414,405,36-45,Male,Happy Hour,6,Thursday,0
+901,549,239,433,248,55+,Male,Buy One Get One,3,Saturday,0
+902,109,1065,223,431,55+,Female,Happy Hour,7,Tuesday,1
+903,923,239,213,552,26-35,Male,Discount,2,Saturday,0
+904,897,1058,377,258,55+,Male,Loyalty Program,8,Wednesday,0
+905,341,948,312,348,55+,Male,Happy Hour,9,Saturday,1
+906,350,488,271,452,55+,Male,Buy One Get One,5,Friday,1
+907,976,461,387,476,36-45,Female,Happy Hour,2,Thursday,0
+908,104,415,273,303,55+,Female,Happy Hour,3,Wednesday,1
+909,218,346,212,554,55+,Male,Happy Hour,3,Wednesday,1
+910,900,535,475,611,55+,Male,Loyalty Program,9,Sunday,0
+911,473,367,221,281,18-25,Female,Discount,2,Wednesday,0
+912,164,291,131,233,36-45,Female,Buy One Get One,5,Sunday,1
+913,245,552,321,548,26-35,Female,Loyalty Program,8,Monday,1
+914,323,770,218,258,18-25,Male,Buy One Get One,8,Sunday,1
+915,338,770,138,370,46-55,Female,Buy One Get One,2,Thursday,1
+916,276,1015,367,517,36-45,Male,Buy One Get One,6,Saturday,1
+917,878,880,332,296,36-45,Male,Loyalty Program,4,Sunday,0
+918,952,980,117,261,46-55,Female,Discount,7,Wednesday,0
+919,381,562,248,643,46-55,Male,Buy One Get One,6,Thursday,1
+920,162,756,496,654,46-55,Female,Discount,8,Sunday,1
+921,316,544,248,624,26-35,Male,Discount,4,Sunday,1
+922,953,892,225,420,55+,Female,Happy Hour,7,Wednesday,0
+923,926,369,491,570,36-45,Male,Loyalty Program,7,Friday,0
+924,894,555,401,516,55+,Male,Loyalty Program,7,Friday,0
+925,788,390,459,429,55+,Female,Happy Hour,3,Sunday,0
+926,560,866,337,432,46-55,Female,Happy Hour,9,Friday,1
+927,709,621,234,189,26-35,Female,Discount,7,Tuesday,0
+928,204,899,250,338,18-25,Female,Buy One Get One,5,Wednesday,1
+929,198,206,335,313,26-35,Male,Loyalty Program,2,Tuesday,0
+930,610,332,323,685,55+,Female,Buy One Get One,8,Thursday,0
+931,484,946,302,685,26-35,Female,Buy One Get One,5,Tuesday,1
+932,504,756,355,153,46-55,Male,Happy Hour,2,Thursday,1
+933,922,1025,185,439,18-25,Female,Buy One Get One,6,Sunday,0
+934,617,960,249,582,46-55,Female,Discount,9,Thursday,1
+935,575,230,334,620,18-25,Male,Happy Hour,6,Thursday,0
+936,808,734,444,330,55+,Female,Buy One Get One,2,Saturday,0
+937,962,625,121,397,18-25,Female,Happy Hour,5,Tuesday,0
+938,744,593,447,428,18-25,Female,Discount,2,Saturday,0
+939,969,871,384,403,18-25,Female,Discount,7,Sunday,0
+940,870,562,368,330,26-35,Female,Buy One Get One,3,Wednesday,0
+941,536,636,357,658,26-35,Female,Happy Hour,8,Tuesday,0
+942,122,869,128,475,55+,Male,Buy One Get One,6,Wednesday,1
+943,664,750,312,506,18-25,Female,Buy One Get One,8,Wednesday,0
+944,776,281,382,540,36-45,Male,Happy Hour,3,Thursday,0
+945,813,555,149,234,55+,Male,Buy One Get One,7,Tuesday,0
+946,557,457,194,466,18-25,Male,Discount,7,Wednesday,0
+947,182,917,187,361,18-25,Male,Happy Hour,6,Friday,1
+948,244,788,143,664,26-35,Female,Happy Hour,6,Wednesday,1
+949,184,723,377,533,55+,Female,Happy Hour,7,Friday,1
+950,177,494,270,491,18-25,Female,Happy Hour,4,Tuesday,1
+951,556,423,288,187,18-25,Male,Buy One Get One,8,Sunday,0
+952,977,724,452,660,55+,Female,Buy One Get One,9,Saturday,0
+953,100,245,283,569,36-45,Female,Discount,3,Tuesday,1
+954,150,866,102,318,55+,Female,Loyalty Program,8,Saturday,1
+955,784,312,290,492,55+,Male,Loyalty Program,3,Saturday,0
+956,816,432,217,455,36-45,Male,Discount,4,Tuesday,0
+957,871,216,118,691,55+,Female,Loyalty Program,9,Wednesday,0
+958,545,559,122,686,18-25,Male,Discount,5,Monday,0
+959,548,422,129,261,55+,Male,Buy One Get One,3,Wednesday,0
+960,980,1065,394,560,36-45,Female,Happy Hour,8,Wednesday,0
+961,587,899,207,355,46-55,Male,Happy Hour,2,Sunday,1
+962,899,647,466,334,55+,Male,Buy One Get One,9,Thursday,0
+963,133,1055,380,531,26-35,Female,Happy Hour,7,Thursday,1
+964,447,564,227,645,18-25,Male,Happy Hour,7,Wednesday,1
+965,194,874,328,528,18-25,Male,Loyalty Program,4,Friday,1
+966,171,525,210,196,26-35,Male,Buy One Get One,3,Sunday,1
+967,650,666,235,677,26-35,Male,Loyalty Program,5,Saturday,0
+968,253,613,461,653,55+,Male,Loyalty Program,3,Thursday,1
+969,349,654,285,171,26-35,Male,Happy Hour,7,Wednesday,1
+970,773,785,243,362,46-55,Male,Happy Hour,6,Sunday,0
+971,537,432,171,459,36-45,Male,Buy One Get One,2,Monday,0
+972,217,423,228,421,26-35,Female,Happy Hour,9,Friday,1
+973,870,1030,463,351,26-35,Female,Happy Hour,4,Tuesday,0
+974,990,611,360,181,46-55,Female,Buy One Get One,6,Wednesday,0
+975,405,771,102,592,18-25,Female,Happy Hour,8,Sunday,1
+976,367,534,487,311,18-25,Male,Loyalty Program,5,Wednesday,1
+977,153,421,203,403,55+,Female,Buy One Get One,6,Saturday,1
+978,335,236,323,670,46-55,Female,Happy Hour,8,Friday,0
+979,488,477,419,629,36-45,Male,Discount,6,Thursday,0
+980,833,395,461,159,36-45,Male,Buy One Get One,5,Thursday,0
+981,862,1063,453,654,46-55,Male,Buy One Get One,9,Thursday,1
+982,924,683,109,585,36-45,Male,Discount,6,Tuesday,0
+983,500,441,483,260,18-25,Male,Happy Hour,4,Sunday,0
+984,723,523,401,302,36-45,Female,Happy Hour,7,Friday,0
+985,866,930,330,251,36-45,Male,Buy One Get One,3,Friday,0
+986,402,391,318,340,46-55,Female,Buy One Get One,6,Thursday,0
+987,306,216,165,230,46-55,Female,Happy Hour,4,Thursday,0
+988,328,723,211,638,36-45,Male,Happy Hour,3,Saturday,1
+989,952,600,112,237,26-35,Female,Loyalty Program,9,Monday,0
+990,677,1085,492,343,46-55,Female,Buy One Get One,8,Monday,1
+991,174,904,185,253,55+,Male,Buy One Get One,3,Wednesday,1
+992,534,221,333,245,55+,Female,Discount,8,Wednesday,0
+993,202,673,189,572,18-25,Female,Loyalty Program,6,Friday,1
+994,521,319,413,347,36-45,Female,Happy Hour,4,Friday,0
+995,803,409,153,150,26-35,Male,Loyalty Program,7,Tuesday,0
+996,863,505,111,556,18-25,Male,Happy Hour,6,Tuesday,0
+997,837,469,308,527,36-45,Male,Happy Hour,8,Monday,0
+998,905,903,113,316,46-55,Female,Loyalty Program,5,Wednesday,0
+999,405,886,220,658,55+,Male,Buy One Get One,3,Monday,1
+1000,197,484,476,462,26-35,Female,Happy Hour,6,Monday,1
+1001,949,915,119,567,55+,Male,Loyalty Program,8,Wednesday,0
+1002,897,875,174,626,46-55,Female,Discount,9,Sunday,0
+1003,434,962,499,222,36-45,Male,Loyalty Program,3,Tuesday,1
+1004,958,426,342,290,46-55,Male,Discount,9,Saturday,0
+1005,534,580,322,411,46-55,Female,Happy Hour,8,Saturday,0
+1006,546,659,169,489,55+,Male,Loyalty Program,4,Saturday,1
+1007,407,206,411,457,26-35,Female,Loyalty Program,2,Wednesday,0
+1008,348,228,310,394,46-55,Male,Discount,9,Thursday,0
+1009,265,232,200,664,55+,Male,Loyalty Program,6,Thursday,0
+1010,580,845,285,486,26-35,Female,Loyalty Program,7,Thursday,1
+1011,434,1078,231,225,36-45,Female,Happy Hour,6,Friday,1
+1012,641,278,210,324,36-45,Female,Loyalty Program,3,Tuesday,0
+1013,858,658,480,258,18-25,Male,Buy One Get One,4,Tuesday,0
+1014,205,769,231,332,55+,Female,Discount,8,Sunday,1
+1015,662,737,119,341,26-35,Male,Loyalty Program,5,Sunday,0
+1016,180,681,493,214,46-55,Female,Discount,7,Friday,1
+1017,232,629,123,623,36-45,Female,Discount,4,Monday,1
+1018,896,937,326,249,26-35,Female,Discount,9,Sunday,0
+1019,999,484,253,693,55+,Female,Loyalty Program,9,Saturday,0
+1020,237,715,392,277,18-25,Female,Loyalty Program,6,Thursday,1
+1021,283,298,329,601,36-45,Female,Discount,5,Saturday,0
+1022,500,596,409,518,26-35,Male,Buy One Get One,4,Thursday,0
+1023,429,688,458,192,26-35,Female,Discount,2,Saturday,1
+1024,884,238,301,568,26-35,Male,Buy One Get One,7,Monday,0
+1025,607,470,137,637,55+,Female,Discount,3,Saturday,0
+1026,951,1086,359,227,55+,Female,Happy Hour,4,Saturday,0
+1027,168,996,287,419,55+,Female,Discount,4,Wednesday,1
+1028,645,356,156,464,46-55,Male,Discount,2,Saturday,0
+1029,873,274,119,317,26-35,Male,Loyalty Program,6,Wednesday,0
+1030,152,1083,372,488,36-45,Female,Buy One Get One,8,Tuesday,1
+1031,549,999,218,342,55+,Male,Happy Hour,8,Friday,1
+1032,304,329,170,602,55+,Female,Buy One Get One,7,Saturday,0
+1033,225,886,103,432,26-35,Female,Happy Hour,7,Tuesday,1
+1034,846,283,320,485,55+,Male,Discount,3,Sunday,0
+1035,142,221,113,539,46-55,Male,Loyalty Program,4,Sunday,1
+1036,851,658,102,674,46-55,Male,Loyalty Program,5,Wednesday,0
+1037,982,738,315,389,55+,Male,Buy One Get One,4,Saturday,0
+1038,210,906,328,632,26-35,Female,Loyalty Program,8,Saturday,1
+1039,860,1048,435,607,26-35,Male,Buy One Get One,3,Monday,1
+1040,762,581,285,238,26-35,Male,Buy One Get One,4,Tuesday,0
+1041,282,947,154,244,18-25,Female,Happy Hour,2,Thursday,1
+1042,947,639,487,601,55+,Male,Buy One Get One,8,Thursday,0
+1043,194,803,475,577,26-35,Male,Happy Hour,4,Monday,1
+1044,473,220,353,300,46-55,Male,Loyalty Program,4,Wednesday,0
+1045,619,502,123,663,36-45,Male,Buy One Get One,8,Thursday,0
+1046,999,1068,261,525,36-45,Female,Buy One Get One,5,Thursday,0
+1047,459,283,257,171,26-35,Female,Discount,8,Sunday,0
+1048,999,973,181,462,36-45,Male,Buy One Get One,2,Sunday,0
+1049,795,858,258,668,36-45,Male,Buy One Get One,2,Friday,0
+1050,380,652,287,355,18-25,Female,Discount,4,Tuesday,1
+1051,294,586,159,524,46-55,Male,Discount,7,Wednesday,1
+1052,963,706,404,600,46-55,Male,Loyalty Program,5,Saturday,0
+1053,294,456,418,328,18-25,Male,Buy One Get One,4,Tuesday,1
+1054,766,769,465,359,18-25,Male,Loyalty Program,8,Wednesday,0
+1055,192,1091,310,649,36-45,Male,Loyalty Program,4,Thursday,1
+1056,771,726,251,613,55+,Male,Discount,3,Friday,0
+1057,160,361,208,273,36-45,Male,Happy Hour,3,Tuesday,1
+1058,733,362,175,262,18-25,Male,Loyalty Program,7,Thursday,0
+1059,150,1031,129,161,46-55,Male,Happy Hour,5,Wednesday,1
+1060,502,992,413,275,36-45,Female,Buy One Get One,6,Tuesday,1
+1061,888,991,216,480,55+,Female,Discount,9,Saturday,0
+1062,104,723,455,432,36-45,Female,Buy One Get One,3,Tuesday,1
+1063,565,985,291,289,26-35,Male,Buy One Get One,6,Thursday,1
+1064,703,470,118,550,36-45,Male,Discount,2,Tuesday,0
+1065,781,691,272,246,18-25,Female,Buy One Get One,3,Saturday,0
+1066,928,407,327,666,46-55,Male,Discount,3,Friday,0
+1067,633,738,449,218,46-55,Female,Happy Hour,5,Friday,0
+1068,504,783,282,267,18-25,Male,Buy One Get One,7,Thursday,1
+1069,937,259,212,208,26-35,Female,Discount,6,Wednesday,0
+1070,612,629,282,182,18-25,Female,Loyalty Program,8,Thursday,0
+1071,744,856,245,467,36-45,Female,Buy One Get One,3,Friday,0
+1072,332,804,418,199,18-25,Male,Happy Hour,3,Monday,1
+1073,623,508,215,638,18-25,Female,Discount,5,Monday,0
+1074,445,719,212,168,26-35,Male,Buy One Get One,5,Tuesday,1
+1075,145,790,350,346,36-45,Male,Buy One Get One,7,Saturday,1
+1076,645,226,350,599,55+,Male,Buy One Get One,6,Sunday,0
+1077,177,885,402,601,55+,Male,Happy Hour,2,Sunday,1
+1078,829,761,412,438,46-55,Male,Discount,8,Sunday,0
+1079,912,398,217,290,18-25,Male,Loyalty Program,7,Tuesday,0
+1080,172,586,400,233,46-55,Male,Loyalty Program,9,Monday,1
+1081,893,548,260,540,26-35,Female,Loyalty Program,2,Friday,0
+1082,348,892,297,364,55+,Female,Discount,4,Tuesday,1
+1083,146,735,359,675,18-25,Female,Loyalty Program,3,Sunday,1
+1084,220,1027,247,364,26-35,Male,Happy Hour,6,Sunday,1
+1085,313,577,339,552,26-35,Male,Discount,7,Thursday,1
+1086,338,1098,146,277,18-25,Male,Buy One Get One,3,Sunday,1
+1087,155,757,498,626,26-35,Male,Happy Hour,6,Saturday,1
+1088,449,726,297,553,18-25,Female,Buy One Get One,6,Sunday,1
+1089,206,352,146,178,18-25,Male,Loyalty Program,6,Thursday,1
+1090,930,933,177,487,36-45,Female,Happy Hour,3,Sunday,0
+1091,147,405,223,510,46-55,Male,Discount,7,Saturday,1
+1092,672,654,174,541,26-35,Female,Happy Hour,8,Friday,0
+1093,436,472,458,367,26-35,Male,Buy One Get One,5,Tuesday,0
+1094,125,1093,236,351,36-45,Female,Discount,3,Saturday,1
+1095,903,435,189,166,36-45,Male,Happy Hour,9,Thursday,0
+1096,356,1051,499,471,36-45,Female,Happy Hour,6,Tuesday,1
+1097,107,939,424,667,55+,Male,Happy Hour,7,Tuesday,1
+1098,724,720,160,474,55+,Female,Happy Hour,8,Thursday,0
+1099,966,877,237,561,55+,Female,Discount,4,Monday,0
+1100,352,1030,149,467,18-25,Male,Buy One Get One,9,Sunday,1
